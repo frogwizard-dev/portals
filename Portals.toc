@@ -1,0 +1,8 @@
+## Interface: 16001, 120000
+## Title: Portals
+## Notes: Action bar / flyouts for mage teleports and portals
+## Author: Mike
+## Version: 1.0.0
+## SavedVariables: PortalsDB
+
+Portals.lua
