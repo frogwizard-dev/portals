@@ -1,10 +1,15 @@
 # Portals
 
+![Portals](screenshots/portals.png)
+
 A World of Warcraft addon for mages on WoW Forever. It puts your teleports and
 portals on a bar of their own, or tucks them into two flyout buttons.
 
 Only the spells you've learned are shown, so the bar grows as you train new
 ones. The buttons work in combat, and a flyout closes again after you cast.
+
+![Teleports and portals as a bar](screenshots/bar.png)
+![The Teleports flyout open](screenshots/flyout.png)
 
 ## Install
 
